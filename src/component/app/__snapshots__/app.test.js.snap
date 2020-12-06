@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot: component App 1`] = `
+Array [
+  <div
+    className="m"
+  >
+    <h1
+      className="h1-title"
+    >
+      Employees
+    </h1>
+    <div
+      className="eploy-block"
+    >
+      <h2>
+        Loading employees
+      </h2>
+    </div>
+  </div>,
+  <div
+    className="b-block"
+  >
+    <h1
+      className="h1-title"
+    >
+      Employees birthday
+    </h1>
+    <div
+      className="n-select"
+    >
+      <h2>
+        No selected employees
+      </h2>
+    </div>
+  </div>,
+]
+`;

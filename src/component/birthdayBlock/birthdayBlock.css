@@ -1,0 +1,51 @@
+.b-block {
+    position: absolute;
+    left: 60%;
+    top: 0;
+    width: 40%;
+    margin-left: 10px;
+}
+
+.bl-list {
+    margin-bottom: 10px;
+    border: 3px solid rgb(0, 174, 255);
+    border-radius: 5px;
+
+}
+
+.h2-b-block {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-left: 20px;
+    background-color: rgb(0, 174, 255);
+    color: white;
+}
+
+.b-us {
+    display: inline-flex;
+    border-bottom: 1px solid rgb(0, 174, 255);
+    margin-left: 30px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    transition: all 0.3s linear;
+
+}
+
+.n-select {
+    padding-left: 30px;
+    background-color: rgb(0, 174, 255);
+    border-radius: 5px;
+    color: white;
+}
+
+.h1-title {
+    border-bottom: 1px solid rgb(0, 76, 99);
+    color: rgb(0, 76, 99);
+}
+
+.f-block {
+    font-weight: 600;
+    width: 200px;
+    margin-right: 20px;
+    padding: 5px;
+}

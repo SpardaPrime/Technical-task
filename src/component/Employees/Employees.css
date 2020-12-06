@@ -1,0 +1,44 @@
+.n-block {
+    display: inline-block;
+    width: 140px;
+}
+
+.list-block {
+    margin-bottom: 5px;
+    margin-left: 10px;
+}
+
+.main-blocks {
+    display: block;
+    width: 180px;
+    border: 3px solid rgb(0, 174, 255);
+    border-radius: 5px;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+
+}
+
+.eploy-block {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.m {
+    width: 60%;
+
+}
+
+.h2 {
+    background-color: rgb(0, 174, 255);
+    color: white;
+    padding-left: 45%;
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+.inp {
+    color: darkblue;
+    cursor: pointer;
+}
